@@ -1,1 +1,1 @@
-# cracer 学习笔记
+# Cracer study notes
